@@ -62,3 +62,17 @@ def guess(x):
 
 
 guess(10)
+
+#Practice Function I created asking if you're hungry
+
+def pizza():
+    question = input("Are you hungry? ")
+    Yes = "Yes"
+    No = "No"
+    if question == Yes:
+        print("You should eat something!\n")
+    elif question == No:
+        print("You should take a nap!")
+
+
+pizza()
