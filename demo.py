@@ -31,7 +31,7 @@ print(result1)
 print(result2)
 print(result3)
 
-#Madlib project
+#Madlib project w/the help of Kylie Ying from freeCodeCamp.org)
 
 adj = input("Adjective: ")
 verb1 = input("Verb: ")
@@ -44,7 +44,7 @@ Stay hydrated and {verb2} like you are {famous_person}!"
 
 print(madlib)
 
-#Secret Number Game
+#Secret Number Game (w/the help of Kylie Ying from freeCodeCamp.org)
 
 import random
 
